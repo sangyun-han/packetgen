@@ -3,6 +3,7 @@ UDP packet bursting tool
 
 ---
 
+```
 Usage: ./packetgen_single_flow.sh [-vx] -i ethX
   -i : ($DEV)       output interface/device (required)
   -s : ($PKT_SIZE)  packet size
@@ -16,6 +17,8 @@ Usage: ./packetgen_single_flow.sh [-vx] -i ethX
   -v : ($VERBOSE)   verbose
   -x : ($DEBUG)     debug
   -6 : ($IP6)       IPv6
+```
+
 
 ---
 ## Example
