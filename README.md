@@ -17,3 +17,8 @@ Usage: ./packetgen_single_flow.sh [-vx] -i ethX
   -x : ($DEBUG)     debug
   -6 : ($IP6)       IPv6
 
+---
+## Example
+```
+$ ./packetget_single_flow.sh -i eth1 -d 192.168.0.101
+```
